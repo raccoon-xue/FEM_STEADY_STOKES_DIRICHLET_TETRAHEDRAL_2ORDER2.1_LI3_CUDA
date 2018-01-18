@@ -1,0 +1,2 @@
+# FEM_STEADY_STOKES_DIRICHLET_TETRAHEDRAL_2ORDER2.1_LI3_CUDA
+一个单位正方体区域上的定常STOKES方程，四面体剖分下，有限元二次插值求解程序。函数U，F使用例子3。单刚生成使用CUDA
